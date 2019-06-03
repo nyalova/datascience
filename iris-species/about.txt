@@ -1,0 +1,15 @@
+It is the first and basic macihine learning algortihm application without optimization, parameter tuning and data visualization.
+
+It includes following steps :
+
+- Data Reading
+- Null Checking 
+- Data Exploration
+- Feature Derivation
+- Feature Reduction
+- Train and Test Split
+- Execution of following models:
+      - Support Vector Machines
+      - Random Forrest Classifier
+      - Neural Network
+      - Gradient Boosting Classifier
