@@ -1,0 +1,30 @@
+This study is about fraud detection.
+
+It includes following steps :
+
+- Data Reading
+- Data Exploration
+- Target Classification
+- Data Visualization to better understanding
+- Discarding redundant data to clearify our dataset
+- Random Sampling in order to correct imbalancing between two classes
+
+- Applying Support Vector Machines
+  -Plotting Receiver Operating Characteristic
+  -Plotting 2-class Precision-Recall curve
+  -Score
+  -Classification Report
+  
+- Applying KneighborsClassifier
+  -Selecting minimum eror value for n_neighbors
+  -Confusion Matrix
+  -Classification Report
+
+- Random Forrest
+  - Plotting Receiver Operating Characteristic
+  - Plotting 2-class Precision-Recall curve
+  - Score
+  - Classification Report
+
+
+
